@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>GOOGLE</title>
+
+<style>
+
+.en-ust {
+text-align:center;
+}
+
+.ikinci-ust{
+
+text-align:center;
+}
+.column {
+  float: left;
+  
+  padding: 10px;
+  height: 100px; 
+}
+.ucuncu-ust{
+  
+  padding: 5px;
+  text-align: center;
+  width:100%;
+}
+
+</style>
+
+</head>
+<body>
+
+<div class="en-ust">
+
+<img src="google.jpg"/>
+
+</div>
+<div class="ikinci-ust">
+
+<p>Search the web using GOOGLE!</p>
+<input type="text"><br><br>
+<button type="button">Google Search</button>
+<button type="button">I'm feeling lucky!</button>
+
+</div>
+<div class="ucuncu-ust">
+
+<div class="column" style="background-color:#02F0C3; float:left; width:25%; display: inline-block; margin-left:30px;" ><p>Special Search</p><a href="#">Stanford Search</a><br>
+<a href="#">Linux Search</a>
+</div>
+<div class="column" style="background-color:#51BAE6; width:40%;display: inline-block;">
+<br>
+<a href="#">Help</a><br>
+<a href="#">About Google</a><br>
+<a href="#">Company Info</a><br>
+<a href="#">Google Logos</a>
+
+
+
+</div>
+<div class="column" style="background-color:#0298C3;  width:25%;display: inline-block;"><p>Get Google! <br> updates monthly</p>
+<input type="test" placeholder="your email"><br>
+<button type="button">Subscribe</button><a href="#">ARCHİVE</a>
+
+</div>
+<div class="dorduncu-ust">
+
+<p>Aleyna İLHAN tarafından tasarlanmıştır</p>
+</div>
+
+
+</body>
+
+
+
+
+</html>
